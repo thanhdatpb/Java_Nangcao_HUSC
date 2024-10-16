@@ -56,7 +56,7 @@
 	   }
    }
 %>
-<form action="dangnhap.jsp" method="post">
+<form action="dangnhapController" method="post">
   User name= <input type="text" name="txtun"> <br>
   Password= <input type="password" name="txtpass"> <br>
   <input type="submit" name="but" value="Login"> <br>
